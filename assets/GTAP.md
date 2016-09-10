@@ -1,4 +1,4 @@
-# TAPP Guild Coins
+# GTAP Asset Definition
 
 TAPP Guild Coins are claims against the TAPP Guild Treasury. The usual way GTAP is created is by earning XP. GTAP are earned 1:1 with XP.
 
@@ -35,3 +35,5 @@ Funds may charge up to 1% for withdrawal processing.
 ### Revenue
 
 At founding, this guild received only $1 from the parent Treasury.
+
+This guild will offer support and possibly other services to TAPP users. Details to be arranged in later contracts.
