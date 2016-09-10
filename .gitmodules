@@ -1,3 +1,6 @@
 [submodule ".gg"]
 	path = .gg
 	url = https://github.com/GitGuild/gitguild_whitepaper_data.git
+[submodule "sidechains/DashMNGuild"]
+	path = sidechains/DashMNGuild
+	url = https://github.com/GitGuild/DashMNGuild.git
