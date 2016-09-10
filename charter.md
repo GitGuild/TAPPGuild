@@ -23,4 +23,8 @@ This guild is a child of the guild linked in the .gg submodule.
   
 As a child guild, the TAPP Guild reserves the right to maintain their own membership, contracts, and ledger, so long as they do not conflict with those of the parent.
 
-The TAPP Guild agrees to recognize all transctions on the parent ledger.
+The TAPP Guild agrees to recognize all transctions on the parent ledger.  
+
+The TAPP Guild agrees to abide by the charter of the parent guild, and the valid votes of the parent guild's members. The TAPP Guild will maintain it's own membership and ledger, and will issue a TAPP Guild Coin (GTAP).
+
+The TAPP Guild asks that the parent guild recognize their ledger and contracts by hashing a submodule link to their chain. The TAPP Guild asks for preferential treatment in feature requests for projects governed by the parent guild.
