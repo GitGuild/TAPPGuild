@@ -37,3 +37,13 @@ Funds may charge up to 1% for withdrawal processing.
 At founding, this guild received only $1 from the parent Treasury.
 
 This guild will offer support and possibly other services to TAPP users. Details to be arranged in later contracts.
+
+### Sponsorships
+
+For every 1 non-sponsorship GTAP issued, an additional 1% GTAP will be issued and allocated to the Git Guild Treasury. For instance, if 2.2 GTAP are issued to a member, 0.022 GTAP are to be issued to the Git Guild Treasury.
+
+##### Sponsorship Table
+
+| Name | Recipient | Asset | Percent on Issue |
+|------|-----------|-------|------------------|
+| Git Guild | FX:GTAP:GitGuild | GTAP | 1% |
