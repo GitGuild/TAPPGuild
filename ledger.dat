@@ -2,11 +2,11 @@
 
 2016/09/09 22:00:00 * Founder Block
     Assets:Treasury               $1
-    Grant:GitGuild                -$1
+    FX:$:GitGuild                 -$1
     XP:Issued                     -1 XP
     XP:Earned:isysd               1 XP
-    GTAP:Issued                    -1 GTAP
-    GTAP:Earned:isysd              1 GTAP
+    GTAP:Issued                   -1 GTAP
+    FX:GTAP:GitGuild              1 GTAP
 
 P 2016/09/07 22:00:01 GTAP $1
 
