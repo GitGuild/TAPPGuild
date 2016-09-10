@@ -10,3 +10,10 @@
 
 P 2016/09/07 22:00:01 GTAP $1
 
+2016/09/10 12:00:03 * TAPP Guild Funding
+    FX:GDASH:TAPPGuild:LegacyGitGuild        -400 GDASH
+    Assets:Treasury               400 GDASH
+
+P 2016/09/10 12:00:03 GDASH 1 DASH
+P 2016/09/10 12:00:03 DASH $11.30
+
