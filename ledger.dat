@@ -20,19 +20,19 @@ P 2016/09/10 17:00:03 GTAP $4520
 ; P 2016/09/10 17:00:03 $ 0.000221239 GTAP
 
 
-16/09/10 12:00:03 * bitjws founded
+2016/09/10 12:00:03 * bitjws founded
     XP:Issued                     -1.5 XP
     XP:Earned:isysd               0.5 XP
     XP:Earned:g-p-g               0.5 XP
     XP:Earned:d3brouille          0.25 XP
     XP:Earned:cindy-zimmerman      0.25 XP
 
-16/09/10 12:00:03 * sqlalchemy-models founded
+2016/09/10 12:00:03 * sqlalchemy-models founded
     XP:Issued                     -1 XP
     XP:Earned:isysd               0.5 XP
     XP:Earned:cindy-zimmerman      0.5 XP
 
-16/09/10 12:00:03 * bitjws-sockjs-server founded
+2016/09/10 12:00:03 * bitjws-sockjs-server founded
     XP:Issued                     -0.5 XP
     XP:Earned:isysd               0.25 XP
     XP:Earned:agnerio             0.25  XP
@@ -40,28 +40,28 @@ P 2016/09/10 17:00:03 GTAP $4520
     GTAP:Earned:agnerio           0.25  GTAP
     FX:GTAP:GitGuild              0.0025 GTAP
 
-16/09/10 12:00:03 * bitjws-js founded
-    XP:Issued                     -0.15 XP
+2016/09/10 12:00:03 * bitjws-js founded
+    XP:Issued                     -0.25 XP
     XP:Earned:AugustoL            0.15 XP
     XP:Earned:isysd               0.05 XP
     XP:Earned:cindy-zimmerman      0.05 XP
 
-16/09/10 12:00:03 * flask-bitjws founded
+2016/09/10 12:00:03 * flask-bitjws founded
     XP:Issued                     -0.55 XP
     XP:Earned:isysd               0.5 XP
     XP:Earned:d3brouille          0.05 XP
 
-16/09/10 12:00:03 * bravado-bitjws founded
+2016/09/10 12:00:03 * bravado-bitjws founded
     XP:Issued                     -0.55 XP
     XP:Earned:isysd               0.5 XP
     XP:Earned:d3brouille          0.05 XP
 
-16/09/10 12:00:03 * webhook-sender founded
+2016/09/10 12:00:03 * webhook-sender founded
     XP:Issued                     -0.65 XP
     XP:Earned:isysd               0.5 XP
     XP:Earned:d3brouille          0.15 XP
 
-16/09/10 12:00:03 * bitjws-go founded
+2016/09/10 12:00:03 * bitjws-go founded
     XP:Issued                     -0.275 XP
     XP:Earned:et4te               0.25 XP
     XP:Earned:isysd               0.025 XP
@@ -70,7 +70,7 @@ P 2016/09/10 17:00:03 GTAP $4520
     GTAP:Earned:isysd             0.025  GTAP
     FX:GTAP:GitGuild              0.00275 GTAP
 
-16/09/10 12:00:03 * tapp-config founded
+2016/09/10 12:00:03 * tapp-config founded
     XP:Issued                     -0.275 XP
     XP:Earned:isysd               0.25 XP
     XP:Earned:welshjf             0.025 XP
@@ -79,7 +79,7 @@ P 2016/09/10 17:00:03 GTAP $4520
     GTAP:Earned:welshjf           0.025  GTAP
     FX:GTAP:GitGuild              0.00275 GTAP
 
-16/09/10 12:00:03 * tappmq founded
+2016/09/10 12:00:03 * tappmq founded
     XP:Issued                     -0.505 XP
     XP:Earned:isysd               0.5 XP
     XP:Earned:welshjf             0.005 XP
@@ -88,22 +88,22 @@ P 2016/09/10 17:00:03 GTAP $4520
     GTAP:Earned:welshjf           0.005  GTAP
     FX:GTAP:GitGuild              0.00505 GTAP
 
-16/09/10 12:00:03 * tapp-deployment founded
+2016/09/10 12:00:03 * tapp-deployment founded
     XP:Issued                     -0.1 XP
     XP:Earned:welshjf             0.1 XP
     GTAP:Issued                   -0.101 GTAP
     GTAP:Earned:welshjf           0.1  GTAP
     FX:GTAP:GitGuild              0.001 GTAP
 
-16/09/10 12:00:03 * lamassu-machine founded
+2016/09/10 12:00:03 * lamassu-machine founded
     FX:GCTM:CTMGuild              -0.004 GCTM
     Assets:Treasury               0.004 GCTM
 
-16/09/10 12:00:03 * lamassu-server founded
-    FX:GCTM:CTMGuild              -0.004 GCTM
-    Assets:Treasury               0.004 GCTM
+2016/09/10 12:00:03 * lamassu-server founded
+    FX:GCTM:CTMGuild              -0.006 GCTM
+    Assets:Treasury               0.006 GCTM
 
-16/09/10 12:00:03 * desw test deploy
+2016/09/10 12:00:03 * desw test deploy
     FX:GWLT:WalletGuild           -0.002 GWLT
     Assets:Treasury               0.002 GWLT
 
