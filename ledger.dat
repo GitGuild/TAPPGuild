@@ -1,109 +1,99 @@
 ; -*- ledger -*-
 
 2016/09/09 22:00:00 * Founder Block
-    Assets:Treasury               $1
-    FX:$:GitGuild                 -$1
-    XP:Issued                     -1 XP
-    XP:Earned:isysd               1 XP
-    GTAP:Issued                   -1 GTAP
-    FX:GTAP:GitGuild              1 GTAP
-
-P 2016/09/07 22:00:01 GTAP $1
-
-2016/09/10 12:00:03 * TAPP Guild Funding
-    FX:GDASH:TAPPGuild:LegacyGitGuild        -400 GDASH
-    Assets:Treasury               400 GDASH
-
-P 2016/09/10 12:00:03 GDASH 1 DASH
-P 2016/09/10 12:00:03 DASH $11.30
-P 2016/09/10 17:00:03 GTAP $4520
-; P 2016/09/10 17:00:03 $ 0.000221239 GTAP
-
+    Experience                    -1 XP
+    isysd:Assets                  1 XP
+    Liabilities                   -1 GTAP
+    GX:GitGuild                   1 GTAP
 
 2016/09/10 12:00:03 * bitjws founded
-    XP:Issued                     -1.5 XP
-    XP:Earned:isysd               0.5 XP
-    XP:Earned:g-p-g               0.5 XP
-    XP:Earned:d3brouille          0.25 XP
-    XP:Earned:cindy-zimmerman      0.25 XP
+    Experience                    -1.5 XP
+    isysd:Assets                  0.5 XP
+    g-p-g:Assets                  0.5 XP
+    d3brouille:Assets             0.25 XP
+    cindy-zimmerman:Assets        0.25 XP
 
 2016/09/10 12:00:03 * sqlalchemy-models founded
-    XP:Issued                     -1 XP
-    XP:Earned:isysd               0.5 XP
-    XP:Earned:cindy-zimmerman      0.5 XP
+    Experience                    -1 XP
+    isysd:Assets                  0.5 XP
+    cindy-zimmerman:Assets        0.5 XP
 
 2016/09/10 12:00:03 * bitjws-sockjs-server founded
-    XP:Issued                     -0.5 XP
-    XP:Earned:isysd               0.25 XP
-    XP:Earned:agnerio             0.25  XP
-    GTAP:Issued                   -0.2525 GTAP
-    GTAP:Earned:agnerio           0.25  GTAP
-    FX:GTAP:GitGuild              0.0025 GTAP
+    Experience                    -0.5 XP
+    isysd:Assets                  0.25 XP
+    agnerio:Assets                0.25  XP
+    Liabilities                   -0.2525 GTAP
+    agnerio:Assets                0.25  GTAP
+    GX:GitGuild                   0.0025 GTAP
 
 2016/09/10 12:00:03 * bitjws-js founded
-    XP:Issued                     -0.25 XP
-    XP:Earned:AugustoL            0.15 XP
-    XP:Earned:isysd               0.05 XP
-    XP:Earned:cindy-zimmerman      0.05 XP
+    Experience                    -0.25 XP
+    AugustoL:Assets               0.15 XP
+    isysd:Assets                  0.05 XP
+    cindy-zimmerman:Assets        0.05 XP
 
 2016/09/10 12:00:03 * flask-bitjws founded
-    XP:Issued                     -0.55 XP
-    XP:Earned:isysd               0.5 XP
-    XP:Earned:d3brouille          0.05 XP
+    Experience                    -0.55 XP
+    isysd:Assets                  0.5 XP
+    d3brouille:Assets             0.05 XP
 
 2016/09/10 12:00:03 * bravado-bitjws founded
-    XP:Issued                     -0.55 XP
-    XP:Earned:isysd               0.5 XP
-    XP:Earned:d3brouille          0.05 XP
+    Experience                    -0.55 XP
+    isysd:Assets                  0.5 XP
+    d3brouille:Assets             0.05 XP
 
 2016/09/10 12:00:03 * webhook-sender founded
-    XP:Issued                     -0.65 XP
-    XP:Earned:isysd               0.5 XP
-    XP:Earned:d3brouille          0.15 XP
+    Experience                    -0.65 XP
+    isysd:Assets                  0.5 XP
+    d3brouille:Assets             0.15 XP
 
 2016/09/10 12:00:03 * bitjws-go founded
-    XP:Issued                     -0.275 XP
-    XP:Earned:et4te               0.25 XP
-    XP:Earned:isysd               0.025 XP
-    GTAP:Issued                   -0.27775 GTAP
-    GTAP:Earned:et4te             0.25  GTAP
-    GTAP:Earned:isysd             0.025  GTAP
-    FX:GTAP:GitGuild              0.00275 GTAP
+    Experience                    -0.275 XP
+    et4te:Assets                  0.25 XP
+    isysd:Assets                  0.025 XP
+    Liabilities                   -0.27775 GTAP
+    et4te:Assets                  0.25  GTAP
+    isysd:Assets                  0.025  GTAP
+    GX:GitGuild                   0.00275 GTAP
 
 2016/09/10 12:00:03 * tapp-config founded
-    XP:Issued                     -0.275 XP
-    XP:Earned:isysd               0.25 XP
-    XP:Earned:welshjf             0.025 XP
-    GTAP:Issued                   -0.27775 GTAP
-    GTAP:Earned:isysd             0.25  GTAP
-    GTAP:Earned:welshjf           0.025  GTAP
-    FX:GTAP:GitGuild              0.00275 GTAP
+    Experience                    -0.275 XP
+    isysd:Assets                  0.25 XP
+    welshjf:Assets                0.025 XP
+    Liabilities                   -0.27775 GTAP
+    isysd:Assets                  0.25  GTAP
+    welshjf:Assets                0.025  GTAP
+    GX:GitGuild                   0.00275 GTAP
 
 2016/09/10 12:00:03 * tappmq founded
-    XP:Issued                     -0.505 XP
-    XP:Earned:isysd               0.5 XP
-    XP:Earned:welshjf             0.005 XP
-    GTAP:Issued                   -0.51005 GTAP
-    GTAP:Earned:isysd             0.5  GTAP
-    GTAP:Earned:welshjf           0.005  GTAP
-    FX:GTAP:GitGuild              0.00505 GTAP
+    Experience                    -0.505 XP
+    isysd:Assets                  0.5 XP
+    welshjf:Assets                0.005 XP
+    Liabilities                   -0.51005 GTAP
+    isysd:Assets                  0.5  GTAP
+    welshjf:Assets                0.005  GTAP
+    GX:GitGuild                   0.00505 GTAP
 
 2016/09/10 12:00:03 * tapp-deployment founded
-    XP:Issued                     -0.1 XP
-    XP:Earned:welshjf             0.1 XP
-    GTAP:Issued                   -0.101 GTAP
-    GTAP:Earned:welshjf           0.1  GTAP
-    FX:GTAP:GitGuild              0.001 GTAP
+    Experience                    -0.1 XP
+    welshjf:Assets                0.1 XP
+    Liabilities                   -0.101 GTAP
+    welshjf:Assets                0.1  GTAP
+    GX:GitGuild                   0.001 GTAP
 
 2016/09/10 12:00:03 * lamassu-machine founded
-    FX:GCTM:CTMGuild              -0.004 GCTM
-    Assets:Treasury               0.004 GCTM
+    GX:CTMGuild                   -0.004 GCTM
+    Assets                        0.004 GCTM
 
 2016/09/10 12:00:03 * lamassu-server founded
-    FX:GCTM:CTMGuild              -0.006 GCTM
-    Assets:Treasury               0.006 GCTM
+    GX:CTMGuild                   -0.006 GCTM
+    Assets                        0.006 GCTM
 
 2016/09/10 12:00:03 * desw test deploy
-    FX:GWLT:WalletGuild           -0.002 GWLT
-    Assets:Treasury               0.002 GWLT
+    GX:WalletGuild                -0.002 GWLT
+    Assets                        0.002 GWLT
+
+2016/09/10 12:01:02 * TAPP Guild Funding
+    FX:DashMNGuild                -400 GDASH
+    Assets                        400 GDASH
 
